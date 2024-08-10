@@ -1,0 +1,17 @@
+<Ultimate goal>
+ -Home inventory system for food or anything else you want to track
+ -Meal planning + automatic grocery list generation, eventually coordinating with home inventory to populate list accordingly
+ -Recipes and food stats search system
+ -Non-food project / inventory planning
+ -Cheap pre-hosted or host your own copy
+
+<Working On>
+ -Food and recipes stats search system
+    -List of pre-defined / researched food items
+    -Search system to display by item stats
+    -Recipes pull item stats to give rough nutrition fact info
+    -Grocery list generation based on selected recipes
+
+<Queue>
+ -User log-in for custom data
+ -
