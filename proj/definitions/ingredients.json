@@ -1,0 +1,12 @@
+{
+    "testItem1":{
+        "name":"Test Item1",
+        "nutrition":{
+            "protein":"5g",
+            "sugar": "0g",
+            "sodium": "0mg"
+        },
+        "used_in":["testRec1"],
+        "tags":["testing", "dummy"]
+    }
+}
